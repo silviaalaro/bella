@@ -1,0 +1,152 @@
+body{
+    background-color: rgb(238, 193, 161);
+}
+header{
+   text-align: center;
+    background:rgb(114, 61, 23);
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: cornsilk;
+}
+.navegacion{
+    background: 100%;
+    background-color: rgb(24, 12, 4);
+}
+.navegacion ul{
+    list-style: none;
+    text-decoration: none;
+}
+
+.menu li{
+    display:inline-block;
+    background:rgb(24, 12, 4);
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px 10px;
+
+}
+  
+.menu li :hover{
+    color: rgb(212, 127, 66) ;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(98, 74, 49);
+    padding: 15px 20px;
+    text-align: center;
+}
+
+li :link{
+    text-decoration: none;
+    justify-content: center;
+}
+.menu li a{
+    color: rgb(238, 193, 161);
+}
+
+
+
+
+#container{
+    width: 1250px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+header{
+    height: 35px;
+    background: rgb(114, 61, 23);
+}
+header h1{
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(241, 238, 236, 0.733);
+}
+#contenido{
+    width: 750px;
+    height: 1300px;
+    float: left;
+    background: rgb(238, 193, 161);
+    margin: top 10px;
+    margin-right: 10px;
+}
+#contenido h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: rgb(104, 60, 29) ;
+}
+
+
+#contenido img{
+    justify-content: center;
+    background: no-repeat;
+    background-size: cover;
+    width: 500px; 
+    margin-left: 180px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 400px
+    
+}
+#contenido p{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+aside{
+    width: 320px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    background: rgb(238, 193, 161);
+    margin-top: 10px;
+    margin-right: 10px;
+    float: right;
+    color: rgb(104, 60, 29) ; 
+}
+ img{
+    justify-content: center;
+    background: no-repeat;
+    background-size: cover;
+    max-width: 90%;
+      
+}
+ p{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer{
+    background-color: rgb(24, 12, 4);
+    clear:both ;
+padding: 50px 60px;
+font-size: 35px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: silver;
+}
+
+
+footer{
+    width: 1500px;
+    border: 0mm;   
+}
+ h3{
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 35px;
+        color: rgb(104, 60, 29) ;
+ }
+ h4{
+    text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 35px;
+        color: rgb(238, 193, 161) ;
+ }
